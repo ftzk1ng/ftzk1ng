@@ -72,11 +72,6 @@ I like keeping things **organized, useful, and technical** — from labs and scr
 
 ---
 
-## Visual
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjd4dTQ5b2NocHF6c3BkOTNyeTRmdTRxaG13eDFnZWxoeXJ2aGR5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="520" alt="minimal cyber visual" />
-</p>
 
 ---
 
@@ -84,11 +79,9 @@ I like keeping things **organized, useful, and technical** — from labs and scr
 
 <p align="left">
   <a href="https://github.com/ftzk1ng">GitHub</a>
-  ·
   
-  ·
   <a href="www.linkedin.com/in/lfeitoza">LinkedIn</a>
-  ·
+  
   
 </p>
 
