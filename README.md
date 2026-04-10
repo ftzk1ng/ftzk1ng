@@ -55,10 +55,7 @@ I like keeping things **organized, useful, and technical** — from labs and scr
 
 ## Selected Projects
 
-### [A3-controle-de-estoque](https://github.com/ftzk1ng/A3-controle-de-estoque)
-Inventory/control project published on GitHub as part of hands-on development practice.
 
-> As more security and automation projects become public, this section will evolve into a stronger technical portfolio.
 
 ---
 
